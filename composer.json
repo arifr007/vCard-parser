@@ -1,0 +1,14 @@
+{
+    "name": "arifr007/vcard",
+    "description": "vCard-parser is a simple vCard file parser with the focus on ease of use.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "vCardParser\\": "src/"
+        }
+    }
+}
