@@ -1,5 +1,6 @@
 <?php
 namespace vCardParser;
+
 use Exception;
 /**
 * vCard class for parsing a vCard and/or creating one
