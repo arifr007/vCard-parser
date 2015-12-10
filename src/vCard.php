@@ -1,5 +1,5 @@
 <?php
-namespace Arifr007\VCardParser;
+namespace Arifr007\vCardParser;
 
 use Exception;
 use Countable;

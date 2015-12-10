@@ -1,9 +1,9 @@
 {
-    "name": "arifr007/vcard-parser",
+    "name": "arifr007/vCardParser",
     "type": "project",
     "description": "vCard-parser is a simple vCard file parser with the focus on ease of use.",
     "keywords": ["vcard","parser"],
-    "homepage": "https://github.com/arifr007/vCard-parser",
+    "homepage": "https://github.com/arifr007/vCardParser",
     "license": "MIT",
     "authors": [
         {
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Arifr007\\VCardParser\\": "src/"
+            "Arifr007\\vCardParser\\": "src/"
         }
     }
 }
