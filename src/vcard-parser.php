@@ -1,9 +1,10 @@
 <?php
-namespace vCardParser;
+namespace Arifr007\VCardParser;
 
 use Exception;
 use Countable;
 use Iterator;
+
 /**
 * vCard class for parsing a vCard and/or creating one
 *
