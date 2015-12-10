@@ -1,5 +1,4 @@
 # vCard Parser
-===================
 [![Laravel 5.1](https://img.shields.io/badge/Laravel-5.1-orange.svg?style=flat-square)](http://laravel.com)
 [![Source](https://img.shields.io/badge/source-arifr007%2Fvcard--parser-blue.svg?style=flat-square)](https://github.com/arifr007/vcard-parser)
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://tldrlegal.com/license/mit-license)
@@ -38,8 +37,8 @@ Contributions are **welcome** and will be fully **credited**.
 
 More info on how to work with GitHub on help.github.com.
 
-## Credits
-
+### Credits
+> this project's base from Nouvo vCard Parser and converting to laravel 5.1 library
 - [Nuovo](https://github.com/nuovo/vCard-parser)
 
 ## License
