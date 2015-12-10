@@ -2,6 +2,8 @@
 namespace vCardParser;
 
 use Exception;
+use Countable;
+use Iterator;
 /**
 * vCard class for parsing a vCard and/or creating one
 *
