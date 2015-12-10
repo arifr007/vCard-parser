@@ -1,5 +1,5 @@
 {
-    "name": "arifr007/vCardParser",
+    "name": "arifr007/vcard-parser",
     "type": "project",
     "description": "vCard-parser is a simple vCard file parser with the focus on ease of use.",
     "keywords": ["vcard","parser"],
