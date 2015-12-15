@@ -1,6 +1,6 @@
 # vCard Parser
 [![Laravel 5.1](https://img.shields.io/badge/Laravel-5.1-orange.svg?style=flat-square)](http://laravel.com)
-[![Build Status](https://img.shields.io/badge/build-dev--master-lightgrey.svg?style=flat-square)](https://github.com/arifr007/vcard-parser)
+[![Build Status](https://img.shields.io/badge/build-0.1-lightgrey.svg?style=flat-square)](https://github.com/arifr007/vcard-parser)
 [![Source](https://img.shields.io/badge/source-arifr007%2Fvcard--parser-blue.svg?style=flat-square)](https://github.com/arifr007/vcard-parser)
 [![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://tldrlegal.com/license/mit-license)
 
