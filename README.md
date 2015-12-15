@@ -19,7 +19,7 @@ Quick Installation
 Begin by installing the package through Composer.
 
 ```
-composer require arifr007/vcard-parser=dev-master
+composer require arifr007/vcard-parser
 ```
 
 Once this operation is complete, simply add facade classes to your project's `config/app.php` file:
