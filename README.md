@@ -25,7 +25,7 @@ composer require arifr007/vcard-parser=dev-master
 Once this operation is complete, simply add facade classes to your project's `config/app.php` file:
 
 ```php
-'vCard' => Arifr007\VCardParser\vCard::class,
+'vCard' => Arifr007\vCardParser\vCard::class,
 ```
 
 ## Contributing
